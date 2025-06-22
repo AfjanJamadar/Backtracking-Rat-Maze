@@ -47,7 +47,7 @@ An interactive Java Swing application that visualizes the classic **Rat in a M
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/rat-in-a-maze-visualizer.git
+git clone
 cd rat-in-a-maze-visualizer
 
 # Compile
